@@ -1924,8 +1924,8 @@ MonoBehaviour:
   sendRate: 60
   autoStartServerBuild: 0
   autoConnectClientBuild: 0
-  offlineScene: 
-  onlineScene: 
+  offlineScene: Assets/Scenes/MainMenu.unity
+  onlineScene: Assets/Scenes/Sandbox.unity
   transport: {fileID: 1044147404}
   networkAddress: localhost
   maxConnections: 100
